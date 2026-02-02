@@ -37,9 +37,8 @@ pkg install nodejs-lts git -y
 ### 2️⃣ Setup Project
 
 ```bash
-mkdir Spamurai
+git clone https://github.com/PrajyotxD/Spamurai.git
 cd Spamurai
-# Place index.js and package.json here
 npm install
 ```
 
