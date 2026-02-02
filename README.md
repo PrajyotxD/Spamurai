@@ -1,4 +1,4 @@
-# ⚔️ Spamurai — WhatsApp Bulk Sender (API‑Free for Termux)
+#  Spamurai — WhatsApp Bulk Sender (API‑Free for Termux)
 
 **Spamurai** is a high‑precision, API‑free WhatsApp automation tool built for **Termux on Android**. It allows power users and developers to send **bulk messages, media, and documents** (APKs, PDFs, Images, Videos) directly from their phone — without Selenium, browsers, or paid APIs.
 
